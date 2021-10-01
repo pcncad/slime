@@ -39,6 +39,10 @@
             <groupId>com.github.nekolr</groupId>
             <artifactId>slime-auth</artifactId>
         </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
         <!-- spring boot -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
